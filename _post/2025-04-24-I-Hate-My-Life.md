@@ -12,4 +12,6 @@ image:
 pin: false
 ---
 
-TEXTs
+I have my life. I had a wonderful one very last time ago. More than that I hate my parents. Thay made me to get married against my own will. That hert me every day and night. Every moment. Every time I kook at their faced.
+
+Once I loved them alot. They were wounderful parents.
